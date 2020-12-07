@@ -1,4 +1,4 @@
-﻿line
+line
 one
 asdf
 asdfasdf
@@ -7,3 +7,4 @@ aswwww
 weewqeqwe
 TRYING CHANGING IT AGAIN 
 TAKE 2
+text
